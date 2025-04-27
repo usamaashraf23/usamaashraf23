@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usama Ashraf</h1>
 <h3 align="center">A passionate Software Engineer from Islamabad,Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaashraf23" alt="usamaashraf23" /></a> </p>
-
 - 🌱 I’m currently learning **C#,Asp .NET Core**
 
 - 💬 Ask me about **Javascript,React,Tailwind CSS**
